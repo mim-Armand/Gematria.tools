@@ -1,6 +1,6 @@
 {
   "name": "gematria.tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a js library that provides tools and methods to calculate Gematria of different words and strings",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -29,6 +29,9 @@
     "url": "https://github.com/mim-Armand/Gematria.tools/issues"
   },
   "homepage": "https://github.com/mim-Armand/Gematria.tools#readme",
+  "files": [
+    "lib/**/*"
+  ],
   "dependencies": {
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
